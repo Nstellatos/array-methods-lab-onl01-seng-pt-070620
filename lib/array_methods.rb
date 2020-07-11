@@ -23,5 +23,6 @@ array.last
 end
 
 def using_size(array)
-
+["cool","love"]
+array.size
 end
