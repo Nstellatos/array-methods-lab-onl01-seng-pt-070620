@@ -1,5 +1,5 @@
 def using_include(array, element)
-array = ["array"]
+array = ["array", "element"]
 array.include?("array")
 end
 
