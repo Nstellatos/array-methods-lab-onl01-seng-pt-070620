@@ -19,6 +19,7 @@ end
 
 def using_last(array)
 ["cool", "arrays!"]
+array.last
 end
 
 def using_size(array)
