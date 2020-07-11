@@ -3,9 +3,8 @@ array.include? (element)
 end
 
 def using_sort(array)
-array = ["wow", "wow"]
+["wow", "cat"]
 array.sort
-array
 end
 
 def using_reverse(array)
